@@ -5,7 +5,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_amap/flutter_amap.dart';
+import 'package:flutter_amap_3d/flutter_amap_3d.dart';
 
 import 'page.dart';
 

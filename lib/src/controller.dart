@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-part of amap_flutter;
+part of flutter_amap_3d;
 
 /// Controller for a single AMap instance running on the host platform.
 ///

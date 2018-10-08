@@ -1,4 +1,4 @@
-library amap_flutter;
+library flutter_amap_3d;
 
 import 'dart:async';
 import 'dart:ui';

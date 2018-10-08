@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-part of amap_flutter;
+part of flutter_amap_3d;
 
 /// An icon placed at a particular geographical location on the map's surface.
 /// A marker icon is drawn oriented against the device's screen rather than the
